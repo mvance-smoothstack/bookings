@@ -1,1 +1,3 @@
-# smoothstack-servlet
+# bookings
+
+Bookings microservice.
